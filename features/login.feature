@@ -1,7 +1,7 @@
 #features/test.feature
-Feature: Running Cucumber with Protractor
-    As a user of Protractor
-    I should be able to use Cucumber
+Feature: Login to icontract
+    As a BO of icontract
+    I should be able to use Cucumber and Gherkin format for my automation
     In order to run my E2E tests
 
     Scenario: Protractor and Cucumber Test
