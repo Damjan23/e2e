@@ -2,7 +2,7 @@ exports.config = {
   // set to "custom" instead of cucumber.
   framework: 'custom',
   
- directConnect: false,
+ directConnect: true,
  
   maxSessions: 1,  // 6 TOTAL sessions across all capabilities
   multiCapabilities: [{ // in 1 chrome run the 10 specs sequentially
