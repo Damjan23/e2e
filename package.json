@@ -16,6 +16,7 @@
     "chai-as-promised": "^7.1.1",
     "chromedriver": "^2.36.0",
     "cucumber": "^4.0.0",
-    "protractor": "^5.3.0"
+    "protractor": "^5.3.0",
+    "testingbot-api": "^1.0.5"
   }
 }
